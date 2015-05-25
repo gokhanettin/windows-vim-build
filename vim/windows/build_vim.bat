@@ -35,7 +35,7 @@ mingw32-make.exe -f Make_mingw64.mak ^
 PYTHON="%USERPROFILE%/Python27" PYTHON_VER=27 DYNAMIC_PYTHON=yes ^
 PYTHON3="%USERPROFILE%/Python34" PYTHON3_VER=34 DYNAMIC_PYTHON3=yes ^
 FEATURES=HUGE GUI=yes ARCH=x86-64 OLE=yes STATIC_STDCPLUS=yes ^
-USERNAME="Gokhan KARABULUT <krbltgokhan@gmail.com>" ^
+USERNAME="Gokhan Karabulut <xgeekonx@gmail.com>" ^
 USERDOMAIN= > "%LOGFILE%"
 
 echo Building vim.exe
@@ -43,7 +43,7 @@ mingw32-make.exe -f Make_mingw64.mak ^
 PYTHON="%USERPROFILE%/Python27" PYTHON_VER=27 DYNAMIC_PYTHON=yes ^
 PYTHON3="%USERPROFILE%/Python34" PYTHON3_VER=34 DYNAMIC_PYTHON3=yes ^
 FEATURES=HUGE GUI=no ARCH=x86-64 OLE=yes STATIC_STDCPLUS=yes ^
-USERNAME="Gokhan KARABULUT <krbltgokhan@gmail.com>" ^
+USERNAME="Gokhan Karabulut <xgeekonx@gmail.com>" ^
 USERDOMAIN= vim.exe >> "%LOGFILE%"
 
 echo Copying files ...
@@ -58,7 +58,7 @@ mingw32-make.exe -f Make_mingw64.mak ^
 PYTHON="%USERPROFILE%/Python27" PYTHON_VER=27 DYNAMIC_PYTHON=yes ^
 PYTHON3="%USERPROFILE%/Python34" PYTHON3_VER=34 DYNAMIC_PYTHON3=yes ^
 FEATURES=HUGE GUI=yes ARCH=x86-64 OLE=yes STATIC_STDCPLUS=yes ^
-USERNAME="Gokhan KARABULUT <krbltgokhan@gmail.com>" ^
+USERNAME="Gokhan Karabulut <xgeekonx@gmail.com>" ^
 USERDOMAIN= clean >> "%LOGFILE%"
 
 :: Because many files deleted by 'make clean' above,
