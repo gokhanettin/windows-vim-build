@@ -1,8 +1,7 @@
 # WINDOWS VIM BUILD
 
 **NOTE:** INSTRUCTIONS IN THIS REPO MIGHT FAIL. I DO NOT MAINTAIN THEM ANY MORE.
-BECAUSE I CURRENTLY USE [SPACEMACS] ON GNU/LINUX EXTENSIVELY. I KEEP THIS REPO
-FOR FUTURE REFERENCE.
+I KEEP THIS REPO FOR FUTURE REFERENCE.
  
 These are my personal notes and some occasional scripts to automate my work.
 
@@ -18,5 +17,3 @@ following tasks.
 
 Note that I am using x86-64 Windows 7. Instructions might fail to work properly
 on other platforms.
-
-[SPACEMACS]: https://github.com/syl20bnr/spacemacs
